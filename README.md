@@ -75,37 +75,19 @@ Non sono ammessi :
 ### 3- Linee guida riguardo username e nickname
 Nel gruppo non è permesso l'impiego di nomi utente inappropriati. Che ti sembri giusto o no, stabilire il confine tra nomi utente accettabili e inaccettabili all'interno del gruppo spetta ai moderatori del medesimo.
 
-Di seguito si esemplificano alcune categorie di nomi non consentiti (l'elenco non è esaustivo).
+Di seguito si esemplificano alcune categorie di nomi non consentiti, neanche in variazioni creative basate su sostituzioni ortografiche o di lettere e numeri.
 
 #### Nomi utente provocatori
-* Nomi che incitano anche indirettamente all'odio razziale, etnico, nazionalistico o religioso
-* Nomi offensivi legati a vere o presunte caratteristiche razziali, etniche, nazionalistiche o religiose
-* Nomi legati a simboli di odio razziale, etnico, nazionalistico o religioso
-* Nomi legati ad atti sessuali e organi genitali, anche in forme gergali o allusive
-* Nomi scatologici, pornografici, volgari o altrimenti offensivi
-* Nomi legati ad atti violenti o illegali o che incitano a compierli
-* Variazioni creative per aggirare le limitazioni precedenti, basate su variazioni ortografiche o sostituzioni di lettere e numeri
-
 Tali nomi utente possono essere percepiti come offensivi o provocatori, divenire oggetto di abuso, risultare sgradevoli nei confronti degli altri utenti. In ogni caso essi distraggono dal dibattito di merito su Grin.
 
 #### Nomi utente promozionali
-* Nomi che riproducono o reclamizzano un'impresa, un marchio o un prodotto commerciale
-* Nomi di aziende, organizzazioni, società, associazioni, siti web, soprattutto se registrati allo scopo di inserire informazioni relative alle proprie attività.
-* Nomi che alludano al ruolo di portavoce ufficiali di una persona, un'impresa, un ente o un'organizzazione.
-
-Vietare questo genere di nomi è prima di tutto a tutela dell'impresa: dato che non abbiamo modo di confermare l'identità dei propri utenti, non si può garantire che un marchio venga usato solo dai legittimi proprietari. Il nome utente in ogni caso deve riferirsi ad una singola persona, non ad un gruppo o azienda. 
+Vietare questo genere di nomi che riproducono o reclamizzano un'impresa, un marchio o un prodotto commerciale è prima di tutto a tutela dell'impresa: dato che non abbiamo modo di confermare l'identità dei propri utenti, non si può garantire che un marchio venga usato solo dai legittimi proprietari. Il nome utente in ogni caso deve riferirsi ad una singola persona, non ad un gruppo o azienda. 
 
 #### Nomi utente diffamatori o abusivi
-* Nomi che insultano, deridono o diffamano altri utenti, persone anche non operanti nel gruppo, gruppi di persone o, imprese.
-* Nomi che divulgano informazioni personali altrui.
-* Nomi che corrispondono, contengono o richiamano codici fiscali, numeri telefonici, indirizzi fisici o di posta elettronica, siti web propri o altrui.
-
-Molestie e diffamazione, anche quando non costituiscano reato, sono comportamenti inappropriati: il nome utente non è un mezzo per attaccare altri utenti o anche solo sottolineare il disaccordo con loro.
+Molestie e diffamazione, anche quando non costituiscano reato, sono comportamenti inappropriati: il nome utente non è un mezzo per attaccare altri utenti o anche solo sottolineare il disaccordo con loro. Ne può essere usato per divulgare dati personali di altri utenti.
 
 #### Nomi utente che generano confusione
-* Nomi che possono essere confusi con quelli di altri utenti, specie se molto noti (amministratori, utenti precedentemente bannati dal gruppo). Se esiste già un utente nel gruppo con lo stesso nome utente che vuoi adottare tu (ed eventualmente con il tuo stesso nome anagrafico), per distinguerti puoi usare un diminutivo o uno pseudonimo o aggiungere qualche altro termine che ti distingua. In tutti questi casi potrebbe non essere sufficiente ricorrere a mere sostituzioni di caratteri o altre variazioni minime.
-* Nomi che richiamano le funzioni di sistema o contengono termini usati comunemente (ad esempio "bot", etc.) o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti (ad esempio contenenti "amministratore", "moderatore", "sysop", etc.).
-* Nomi eccessivamente lunghi o articolati, difficili da riportare e ricordare, ad esempio lunghe sequenze casuali o apparentemente casuali di numeri o lettere ("ZJUn5XDLfqSve6yO", "asdfjjjjjjjk", "32104157238") inclusi i numeri di telefono o sequenze che assomiglino a indirizzi IPv4 e IPv6.
+Nomi che possono essere confusi con quelli di altri utenti, specie se molto noti (amministratori, utenti precedentemente bannati dal gruppo). Nomi che richiamano le funzioni di sistema o contengono termini usati comunemente (ad esempio "bot", etc.) o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti (ad esempio contenenti "amministratore", "moderatore", "sysop", etc.).
 
 ## PROVVEDIMENTI IN CASO DI COMPORTAMENTI SCORRETTI:
 Gli amministratori hanno un'autorità speciale; sono i responsabili di questo gruppo. Ma anche tu lo sei. Con il tuo aiuto, gli amministratori possono essere facilitatori della comunità, non solo guardiani o polizia.
