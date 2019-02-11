@@ -70,7 +70,7 @@ Non sono ammessi :
 * propaganda politica o proselitismo di fedi religiose, o contro le stesse.
 * pubblicità di prodotti o servizi (anche cripto valute).
 * minacce di azioni legali: è una tipica modalità per intimorire gli interlocutori. Se pensi che qualcuno abbia davvero violato la legge, contatta il tuo legale per le verifiche del caso ma non minacciare o notificare nel gruppo riguardo ad azioni legali.
-* messaggi che discutono su come operano i moderatori. La moderazione del gruppo non è topic dello stesso. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
+* messaggi che discutono su come operano gli amministratori. La moderazione del gruppo non è topic dello stesso. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
 
 ### 3- Linee guida riguardo username e nickname
 Nel gruppo non è permesso l'impiego di nomi utente inappropriati. Che ti sembri giusto o no, stabilire il confine tra nomi utente accettabili e inaccettabili all'interno del gruppo spetta ai moderatori del medesimo.
