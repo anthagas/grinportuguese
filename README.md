@@ -19,6 +19,8 @@ Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di 
 
 Il TOPIC del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno alla medesima, e gli aspetti pratici legati al suo uso, le prospettive e la visione che la stessa sottintende. 
 
+Chiediamo a tutti di collaborare nel mantenere nel gruppo un'atmosfera favorevole al confronto.
+
 ### 1- Miglioriamo la discussione
 Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre per migliorarlo in qualche modo, per quanto piccolo. Se invece non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora su ciò che vuoi dire e intervieni in un secondo momento.
 
@@ -31,22 +33,15 @@ In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad
 * Attacchi Ad Hominem
 * Risposte al tono di un post invece del suo contenuto effettivo
 * Risposte immediate basate sulle emozioni senza riflessione 
+* Comportamenti da Troll
 
 Se rimani coinvolto tuo malgrado in una polemica, tieni la discussione incentrata sul tema con argomentazioni che migliorano la conversazione, non sulle persone coinvolte. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.**
 Ricorda che lo scopo di questo gruppo non è cercare di convincersi reciprocamente, assumi che le controparti abbiano una risorsa tempo limitata e rispetta questo vincolo. 
 
 Supponi sempre che gli individui parlino a titolo personale, e mai per conto delle organizzazioni di cui possono fare parte, a meno che non sia esplicitamente asserito il contrario dalla controparte. Cerca di evitare di cadere in fallacie logiche, ne trovi un elenco qui https://yourlogicalfallacyis.com
 
-Evita di trollare, in particolar modo rispetto a persone o eventi accaduti su altre chat.
-
-Mentre è consentito discutere qualsiasi idea politica o religiosa all'interno di un ragionamento attinenti a Grin, non sono ammesse invece ingiurie alle credenze altrui.  
-
-Chiediamo a tutti di collaborare in questo senso nel mantenere nel gruppo un'atmosfera favorevole al confronto.
-
 #### Scrivi in modo leggibile.
-Tieni conto che è un gruppo di centinaia di persone (molte delle quali ricevono notifica di ogni nuovo post): cerca di pubblicare in modo ordinato, compatto e responsabile.
-
-**Non intasare la chat con messaggi in rapida successione.**
+Tieni conto che sei in un gruppo di centinaia di persone (molte delle quali ricevono notifica di ogni nuovo post): cerca di pubblicare in modo ordinato, compatto e responsabile. **Non intasare la chat con messaggi in rapida successione.**
 
 Può capitare che la discussione degeneri facilmente e si venga subissati di messaggi inviati in rapida successione. In casi come questi perdere il filo del discorso è questione di pochi messaggi: si possono intrecciare dialoghi e discussioni differenti, rendendo illeggibile e di difficile comprensione il flusso del gruppo. Per questo motivo è consigliabile inviare un unico messaggio, anche lungo, e attendere che il destinatario (o i destinatari) risponda prima di inviare un secondo messaggio.
 
