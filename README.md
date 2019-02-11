@@ -26,11 +26,11 @@ Ci impegniamo a fornire un ambiente amichevole, sicuro e accogliente per tutti, 
 Il nostro scopo non è semplicemente sforzarci di eccellere tecnicamente, ma contribuire alla comunità di Grin eccellendo nel comportamento tra di noi. Per questa ragione ti chiediamo di astenerti dal "giocare" con questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
 
 ### 1- Miglioriamo la discussione
-Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre per migliorarlo in qualche modo, per quanto piccolo. Se invece non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora su ciò che vuoi dire e intervieni in un secondo momento.
+Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre insieme per migliorarlo. Se non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora sul tuo contributo e intervieni eventualmente in un secondo momento.
 
 Gli argomenti discussi nel gruppo sono importanti per noi e ti chiediamo di comportarti come se fossero importanti anche per te. Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
 
-Le conversazioni che facciamo danno il clima che si respira ad ogni nuovo arrivato. Aiutaci a influenzare il futuro di questa comunità scegliendo di impegnarti in discussioni che rendano questo gruppo uno spazio interessante in cui esserci.
+Le conversazioni che facciamo danno il clima che si respira ad ogni nuovo arrivato. Aiutaci a influenzare il futuro di questa comunità scegliendo di impegnarti in discussioni che rendano il gruppo uno spazio interessante da frequentare.
 
 #### Sii civile e sereno
 In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad una argomentazione. Non c'è nulla di sbagliato in ciò. Ricordati solo ricorda di criticare le idee, **non le persone**, evitando:
