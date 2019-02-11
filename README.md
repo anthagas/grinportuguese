@@ -17,10 +17,10 @@ https://t.me/grinitalia
 ## Questo è un luogo civile per discussioni pubbliche su Grin
 Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di un parco pubblico. Anche questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua.
 
-Il TOPIC del gruppo è **Grin**, medium of exchange che usa la tecnologia MimbleWimble, gli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno alla medesima, e gli aspetti pratici legati al suo uso, le prospettive e la visione che la stessa sottintende. 
+Il TOPIC del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno alla medesima, e gli aspetti pratici legati al suo uso, le prospettive e la visione che la stessa sottintende. 
 
 ### 1- Miglioriamo la discussione
-Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre per migliorare la discussione in qualche modo, per quanto piccolo. Se invece non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora su ciò che vuoi dire e intervieni in un secondo momento.
+Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre per migliorarlo in qualche modo, per quanto piccolo. Se invece non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora su ciò che vuoi dire e intervieni in un secondo momento.
 
 Gli argomenti discussi nel gruppo sono importanti per noi e ti chiediamo di comportarti come se fossero importanti anche per te. Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
 
@@ -28,9 +28,9 @@ Gli argomenti discussi nel gruppo sono importanti per noi e ti chiediamo di comp
 In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad una argomentazione. Non c'è nulla di sbagliato in ciò. Ricordati solo ricorda di criticare le idee, **non le persone**, evitando:
 
 * Insulti
-* Ad hominem attack
+* Attacchi Ad Hominem
 * Risposte al tono di un post invece del suo contenuto effettivo
-* Risposte emotive immediate senza riflettere 
+* Risposte immediate basate sulle emozioni senza riflessione 
 
 Se rimani coinvolto tuo malgrado in una polemica, tieni la discussione incentrata sul tema con argomentazioni che migliorano la conversazione, non sulle persone coinvolte. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.**
 Ricorda che lo scopo di questo gruppo non è cercare di convincersi reciprocamente, assumi che le controparti abbiano una risorsa tempo limitata e rispetta questo vincolo. 
