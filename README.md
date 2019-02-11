@@ -104,7 +104,7 @@ Molestie e diffamazione, anche quando non costituiscano reato, sono comportament
 * Nomi eccessivamente lunghi o articolati, difficili da riportare e ricordare, ad esempio lunghe sequenze casuali o apparentemente casuali di numeri o lettere ("ZJUn5XDLfqSve6yO", "asdfjjjjjjjk", "32104157238") inclusi i numeri di telefono o sequenze che assomiglino a indirizzi IPv4 e IPv6.
 
 ## PROVVEDIMENTI IN CASO DI VIOLAZIONE DELLE POLICY:
-In caso di commenti che non rispettano le semplici regole di cui sopra, gli amministratori del gruppo cancelleranno il post in violazione delle regole e ti chiederanno, tramite commento pubblico e/o messaggio privato, di evitare la violazione per il futuro.
+In caso di commenti che non rispettano le semplici regole di cui sopra, gli amministratori del gruppo cancelleranno il post in violazione delle regole e chiederanno, tramite commento pubblico e/o messaggio privato, di evitare la violazione per il futuro.
 
 In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
 
@@ -116,9 +116,9 @@ Alla terza violazione delle policy della lista, gli amministratori del gruppo ba
 
 #### Segnalazione
 
-Per segnalare ad un utente che il suo nome utente pare essere inappropriato, contattare i moderatori del gruppo segnalando una motivazione riguardante il caso specifico.
+Se un nome utente ti pare essere inappropriato, contatta un amministratore del gruppo spiegando la tua motivazione riguardante il caso specifico.
 
 #### Gestione
 
-Qualora la segnalazione venga ritenuta congruente con le limitazioni ai nomi utente previste da questa policy del gruppo, il moderatore provvederà ad inviare una richiesta di cambiamento all'utente con il nickname problematico, richiedendo la modifica, sospendendo nel frattempo la sua possibilità di postare nel gruppo.
+Qualora la segnalazione venga ritenuta congruente con le limitazioni ai nomi utente previste da questa policy del gruppo, l' amministratore provvederà ad inviare una richiesta di cambiamento all'utente con il nickname problematico, richiedendo la modifica, sospendendo nel frattempo la sua possibilità di postare nel gruppo.
 L'utente dovrà provvedere entro 1 giorno a modificare il nickname, passato il quale l'utente verrà definitivamente rimosso dal gruppo, al quale potrà riaccedere con un nickname in linea con questa policy.
