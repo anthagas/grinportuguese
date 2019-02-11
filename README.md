@@ -3,7 +3,7 @@
 ## Informazioni generali
 ### Per entrare nel gruppo
 https://t.me/grinitalia
-### Amministratori/moderatori del gruppo
+### Amministratori del gruppo
 (in ordine strettamente alfabetico di nome)
   * Andrea Benetton [@Andbene72](https://t.me/Andbene72)
   * Bitergosum [@bitergosum](https://t.me/bitergosum)
