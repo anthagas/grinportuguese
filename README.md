@@ -17,7 +17,7 @@ https://t.me/grinitalia
 ## Questo è un luogo civile per discussioni pubbliche su Grin
 Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di un parco pubblico. Anche questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua.
 
-Il TOPIC del gruppo è la tecnologia MimbleWimble e della sua principale applicazione, il medium of exchange **Grin**, gli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno alla medesima, e gli aspetti pratici legati al suo uso, le prospettive e la visione che la stessa sottintende. 
+Il TOPIC del gruppo è **Grin**, medium of exchange che usa la tecnologia MimbleWimble, gli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno alla medesima, e gli aspetti pratici legati al suo uso, le prospettive e la visione che la stessa sottintende. 
 
 ### 1- Miglioriamo la discussione
 Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre per migliorare la discussione in qualche modo, per quanto piccolo. Se invece non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora su ciò che vuoi dire e intervieni in un secondo momento.
