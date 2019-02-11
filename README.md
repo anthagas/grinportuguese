@@ -133,4 +133,4 @@ Qualora la segnalazione venga ritenuta congruente con le limitazioni ai nomi ute
 L'utente dovrà provvedere entro 1 giorno a modificare il nickname, passato il quale l'utente verrà definitivamente rimosso dal gruppo, al quale potrà riaccedere con un nickname in linea con questa policy.
 
 ### Responsabilità
-Gli amministratori del gruppo non visualizzano l'anteprima di nuovi post; non si assumono alcuna responsabilità per i contenuti pubblicati dalla community.
+Gli amministratori del gruppo non visualizzano l'anteprima di nuovi post; non si assumono alcuna responsabilità per i contenuti pubblicati dalla community. Sono volontari che moderano il gruppo su base best effort e non danno alcun garanzia legale riguardo  un livello di servizio, soprattutto riguardo alla rimozione di materiale non conforme.
