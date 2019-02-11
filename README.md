@@ -63,7 +63,7 @@ Non sono ammessi :
 * minacce di azioni legali: è una tipica modalità per intimorire gli interlocutori. Se pensi che qualcuno abbia davvero violato la legge, contatta il tuo legale per le verifiche del caso ma non minacciare o notificare nel gruppo riguardo ad azioni legali.
 * messaggi che discutono su come operano i moderatori. La moderazione del gruppo non è topic dello stesso. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
 
-### 3- Policy riguardo username e nickname
+### 3- Linee guida riguardo username e nickname
 Nel gruppo non è permesso l'impiego di nomi utente inappropriati. Che ti sembri giusto o no, stabilire il confine tra nomi utente accettabili e inaccettabili all'interno del gruppo spetta ai moderatori del medesimo.
 
 Di seguito si esemplificano alcune categorie di nomi non consentiti (l'elenco non è esaustivo).
@@ -98,8 +98,8 @@ Molestie e diffamazione, anche quando non costituiscano reato, sono comportament
 * Nomi che richiamano le funzioni di sistema o contengono termini usati comunemente (ad esempio "bot", etc.) o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti (ad esempio contenenti "amministratore", "moderatore", "sysop", etc.).
 * Nomi eccessivamente lunghi o articolati, difficili da riportare e ricordare, ad esempio lunghe sequenze casuali o apparentemente casuali di numeri o lettere ("ZJUn5XDLfqSve6yO", "asdfjjjjjjjk", "32104157238") inclusi i numeri di telefono o sequenze che assomiglino a indirizzi IPv4 e IPv6.
 
-## PROVVEDIMENTI IN CASO DI VIOLAZIONE DELLE POLICY:
-In caso di commenti che non rispettano le semplici regole di cui sopra, gli amministratori del gruppo cancelleranno il post in violazione delle regole e chiederanno, tramite commento pubblico e/o messaggio privato, di evitare la violazione per il futuro.
+## PROVVEDIMENTI IN CASO DI VIOLAZIONE DELLE LINEE GUIDA:
+In caso di commenti che non rispettano queste linee guida, gli amministratori del gruppo cancelleranno il post in questione e chiederanno, tramite commento pubblico e/o messaggio privato, di evitare di reiterare il comportamento.
 
 In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
 
