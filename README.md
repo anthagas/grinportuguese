@@ -23,7 +23,7 @@ Questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere 
 
 Ci impegniamo a fornire un ambiente amichevole, sicuro e accogliente per tutti, indipendentemente dal livello di esperienza, genere, identità ed espressione di genere, orientamento sessuale, disabilità, aspetto personale, corporatura, razza, etnia, età, religione, nazionalità o altra caratteristica simile, fatto salvo indicare un gruppo nella lingua appropriata a chi si unisse al gruppo non sapendo parlare italiano.
 
-Il nostro scopo non è semplicemente sforzarci di eccellere tecnicamente, ma contribuire alla comunità di Grin eccellendo nel comportamento tra di noi. Per questa ragione dovresti evitare di "giocare" con questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
+Il nostro scopo non è semplicemente sforzarci di eccellere tecnicamente, ma contribuire alla comunità di Grin eccellendo nel comportamento tra di noi. Per questa ragione ti chiediamo di astenerti dal "giocare" con questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
 
 ### 1- Miglioriamo la discussione
 Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre per migliorarlo in qualche modo, per quanto piccolo. Se invece non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora su ciò che vuoi dire e intervieni in un secondo momento.
