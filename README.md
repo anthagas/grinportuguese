@@ -17,7 +17,7 @@ https://t.me/grinitalia
 Le presenti linee guida del gruppo cercano di rispecchiare e rendere specifiche per lo strumento Telegram e la lingua e cultura italiane le [linee guida della community Grin](https://github.com/mimblewimble/grin/blob/master/CODE_OF_CONDUCT.md).
 
 ## Questo è un luogo civile per discussioni pubbliche su Grin
-Il TOPIC del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno alla medesima, e gli aspetti pratici legati al suo uso, le prospettive e la visione che la stessa sottintende. 
+Il TOPIC del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici a questi direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno ai medesimi, e gli aspetti pratici legati al loro uso, le prospettive e la visione che gli stessi sottintendono. 
 
 Questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua. Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di un parco pubblico. 
 
