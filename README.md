@@ -17,20 +17,20 @@ https://t.me/grinitalia
 Le presenti linee guida del gruppo cercano di rispecchiare e rendere specifiche per lo strumento Telegram e la lingua e cultura italiane le [linee guida della community Grin](https://github.com/mimblewimble/grin/blob/master/CODE_OF_CONDUCT.md).
 
 ## Questo è un luogo civile per discussioni pubbliche su Grin
-Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di un parco pubblico. Anche questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua.
-
 Il TOPIC del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno alla medesima, e gli aspetti pratici legati al suo uso, le prospettive e la visione che la stessa sottintende. 
+
+Questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua. Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di un parco pubblico. 
 
 Ci impegniamo a fornire un ambiente amichevole, sicuro e accogliente per tutti, indipendentemente dal livello di esperienza, genere, identità ed espressione di genere, orientamento sessuale, disabilità, aspetto personale, corporatura, razza, etnia, età, religione, nazionalità o altra caratteristica simile, fatto salvo indicare un gruppo nella lingua appropriata a chi si unisse al gruppo non sapendo parlare italiano.
 
-Il nostro scopo non è semplicemente sforzarci di eccellere tecnicamente, ma contribuire alla comunità di Grin eccellendo nel comportando tra di noi. Per questa ragione ti dovresti evitare di flirtare con questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
+Il nostro scopo non è semplicemente sforzarci di eccellere tecnicamente, ma contribuire alla comunità di Grin eccellendo nel comportamento tra di noi. Per questa ragione dovresti evitare di "giocare" con questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
 
 ### 1- Miglioriamo la discussione
 Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre per migliorarlo in qualche modo, per quanto piccolo. Se invece non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora su ciò che vuoi dire e intervieni in un secondo momento.
 
 Gli argomenti discussi nel gruppo sono importanti per noi e ti chiediamo di comportarti come se fossero importanti anche per te. Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
 
-Le conversazioni che facciamo danno il clima che si respira ad ogni nuovo arrivato. Aiutaci a influenzare il futuro di questa comunità scegliendo di impegnarti in discussioni che rendano questo gruppo uno spazio interessante in cui esserci!
+Le conversazioni che facciamo danno il clima che si respira ad ogni nuovo arrivato. Aiutaci a influenzare il futuro di questa comunità scegliendo di impegnarti in discussioni che rendano questo gruppo uno spazio interessante in cui esserci.
 
 #### Sii civile e sereno
 In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad una argomentazione. Non c'è nulla di sbagliato in ciò. Ricordati solo ricorda di criticare le idee, **non le persone**, evitando:
@@ -43,12 +43,12 @@ In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad
 
 Se rimani coinvolto tuo malgrado in una polemica, tieni la discussione incentrata sul tema con argomentazioni che migliorano la conversazione, non sulle persone coinvolte. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.**
 
-Ricorda che lo scopo di questo gruppo non è cercare di convincersi reciprocamente, assumi che le controparti abbiano una risorsa tempo limitata e rispetta questo vincolo. 
+Ricorda che lo scopo di questo gruppo non è cercare di convincersi reciprocamente, assumi che le controparti abbiano la risorsa tempo limitata e rispetta questo vincolo. 
 
 Supponi sempre che gli individui parlino a titolo personale, e mai per conto delle organizzazioni di cui possono fare parte, a meno che non sia esplicitamente asserito il contrario dalla controparte. Cerca di evitare di cadere in fallacie logiche, ne trovi un elenco qui https://yourlogicalfallacyis.com
 
 #### Scrivi in modo leggibile.
-Tieni conto che sei in un gruppo di centinaia di persone (molte delle quali ricevono notifica di ogni nuovo post): cerca di pubblicare in modo ordinato, compatto e responsabile. **Non intasare la chat con messaggi in rapida successione.**
+Tieni conto che sei in un gruppo di centinaia di persone (molte delle quali ricevono notifica di ogni nuovo post): cerca di pubblicare in modo ordinato, compatto e responsabile. **Non intasare il gruppo con messaggi in rapida successione.**
 
 Può capitare che la discussione degeneri facilmente e si venga subissati di messaggi inviati in rapida successione. In casi come questi perdere il filo del discorso è questione di pochi messaggi: si possono intrecciare dialoghi e discussioni differenti, rendendo illeggibile e di difficile comprensione il flusso del gruppo. Per questo motivo è consigliabile inviare un unico messaggio, anche lungo, e attendere che il destinatario (o i destinatari) risponda prima di inviare un secondo messaggio.
 
@@ -65,7 +65,7 @@ Non sono ammessi :
 * messaggi che incitano all'uso della violenza o all'odio razziale, etnico, nazionalistico o religioso. 
 * insulti, molestie o stalking, impersonare persone o esporre le loro informazioni private. 
 * pubblicazione di materiale osceno o sessualmente esplicito.
-* richieste di denaro ad altri membri del gruppo in alcuna forma sia esso fiat o cryptocurrency, fatte salve grandi campagne che possono interessare molti adeguatamente analizzate dai moderatori. 
+* richieste di denaro ad altri membri del gruppo in alcuna forma sia esso fiat o cryptocurrency, fatte salve campagne di pubblico interesse, autorizzate dai moderatori. (es. Yeastplume funding campaign) 
 * aggiungere bot al gruppo, salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
 * propaganda politica o proselitismo di fedi religiose, o contro le stesse.
 * pubblicità di prodotti o servizi (anche cripto valute).
@@ -111,15 +111,15 @@ Molestie e diffamazione, anche quando non costituiscano reato, sono comportament
 Gli amministratori hanno un'autorità speciale; sono i responsabili di questo gruppo. Ma anche tu lo sei. Con il tuo aiuto, gli amministratori possono essere facilitatori della comunità, non solo guardiani o polizia.
 Quando vedi un comportamento scorretto, non rispondere. Rispondere incoraggia il cattivo comportamento, consuma la tua energia e spreca il tempo di tutti. Basta segnalarlo agli amministratori. 
 
-In caso di commenti che non rispettano queste linee guida, gli amministratori del gruppo cancelleranno il post in questione e chiederanno, tramite commento pubblico e/o messaggio privato, di evitare di reiterare il comportamento.
+In caso di comportamenti scorretti, gli amministratori del gruppo cancelleranno il/i post in questione e chiederanno, tramite commento pubblico e/o messaggio privato, di evitare di reiterare il comportamento.
 
-In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
+In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione, il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
 
 **'Three strikes and you're out'**
 
 Alla terza violazione delle policy della lista, gli amministratori del gruppo banneranno definitivamente il responsabile delle violazioni.
 
-Gli amministratorisono tenuti ad uno standard più elevato rispetto ad altri membri della comunità. Se un amministratore crea una situazione inappropriata, deve aspettarsi una tolleranza minore rispetto ad altri.
+Gli amministratori sono tenuti ad uno standard più elevato rispetto agli altri membri della comunità. Se un amministratore crea una situazione inappropriata, deve aspettarsi una tolleranza minore rispetto agli altri.
 
 ### Gestione dei nomi utente inappropriati
 
