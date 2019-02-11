@@ -90,7 +90,7 @@ Molestie e diffamazione, anche quando non costituiscano reato, sono comportament
 Nomi che possono essere confusi con quelli di altri utenti, specie se molto noti (amministratori, utenti precedentemente bannati dal gruppo). Nomi che richiamano le funzioni di sistema o contengono termini usati comunemente (ad esempio "bot", etc.) o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti (ad esempio contenenti "amministratore", "moderatore", "sysop", etc.).
 
 ## PROVVEDIMENTI IN CASO DI COMPORTAMENTI SCORRETTI:
-Gli amministratori hanno un'autorità speciale; sono i responsabili di questo gruppo. Ma anche tu lo sei. Con il tuo aiuto, gli amministratori possono essere facilitatori della comunità, non solo guardiani o polizia.
+Gli amministratori hanno un ruolo; sono i facilitatori di questa comunità. Ma anche tu lo sei. 
 Quando vedi un comportamento scorretto, non rispondere. Rispondere incoraggia il cattivo comportamento, consuma la tua energia e spreca il tempo di tutti. Basta segnalarlo agli amministratori. 
 
 In caso di comportamenti scorretti, gli amministratori del gruppo cancelleranno il/i post in questione e chiederanno, tramite commento pubblico e/o messaggio privato, di evitare di reiterare il comportamento.
