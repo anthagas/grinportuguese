@@ -19,13 +19,13 @@ Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di 
 
 Il TOPIC del gruppo è dunque questa tecnologia di cui siamo entusiasti, gli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno alla medesima, e gli aspetti pratici legati al suo uso, le prospettive e la visione che la stessa sottintende. 
 
-### 1- Migliora la discussione
-Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre per migliorare la discussione in qualche modo, per quanto piccolo. Se non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora su ciò che vuoi dire e intervieni in un secondo momento.
+### 1- Miglioriamo la discussione
+Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre per migliorare la discussione in qualche modo, per quanto piccolo. Se invece non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora su ciò che vuoi dire e intervieni in un secondo momento.
 
-Gli argomenti discussi qui sono importanti per noi e ti chiediamo di comportarti come se fossero importanti anche per te. Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
+Gli argomenti discussi nel gruppo sono importanti per noi e ti chiediamo di comportarti come se fossero importanti anche per te. Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
 
 #### Sii civile e sereno, anche quando non sei d'accordo
-In ogni discussione capita di dover esprimere il proprio disaccordo rispetto ad una argomentazione. Non c'è nulla di sbagliato in ciò. Ricordati solo ricorda di criticare le idee, non le persone, evitando:
+In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad una argomentazione. Non c'è nulla di sbagliato in ciò. Ricordati solo ricorda di criticare le idee, **non le persone**, evitando:
 
 * Insulti
 * Ad hominem attack
@@ -39,7 +39,7 @@ Supponi sempre che gli individui parlino a titolo personale, e mai per conto del
 
 Evita di trollare, in particolar modo rispetto a persone o eventi accaduti su altre chat.
 
-Mentre è consentito discutere qualsiasi idea politica o religiosa all'interno di un ragionamento attinenti al Grin, non sono ammesse invece ingiurie alle credenze altrui.  
+Mentre è consentito discutere qualsiasi idea politica o religiosa all'interno di un ragionamento attinenti a Grin, non sono ammesse invece ingiurie alle credenze altrui.  
 
 Chiediamo a tutti di collaborare in questo senso nel mantenere nel gruppo un'atmosfera favorevole al confronto.
 
