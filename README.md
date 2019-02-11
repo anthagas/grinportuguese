@@ -26,7 +26,11 @@ Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre 
 
 Gli argomenti discussi nel gruppo sono importanti per noi e ti chiediamo di comportarti come se fossero importanti anche per te. Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
 
-#### Sii civile e sereno, anche quando non sei d'accordo
+La tua partecipazione conta !
+Le conversazioni che abbiamo qui danno il clima che si respira ad ogni nuovo arrivato. Aiutaci a influenzare il futuro di questa comunità scegliendo di impegnarti in discussioni che rendano questo gruppo uno spazio interessante in cui esserci!
+Lasciamo la nostra comunità meglio di come l'abbiamo trovata.
+
+#### Sii civile e sereno
 In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad una argomentazione. Non c'è nulla di sbagliato in ciò. Ricordati solo ricorda di criticare le idee, **non le persone**, evitando:
 
 * Insulti
@@ -56,6 +60,8 @@ Se un utente sta utilizzando un alias, un soprannome o uno pseudonimo, rispetta 
 
 Non sono ammessi :
 * messaggi che incitano all'uso della violenza o all'odio razziale, etnico, nazionalistico o religioso. 
+* molestie o stalking, impersonare persone o esporre le loro informazioni private.
+* pubblicazione di materiale osceno o sessualmente esplicito.
 * richieste di denaro ad altri membri del gruppo in alcuna forma sia esso fiat o cryptocurrency, fatte salve grandi campagne che possono interessare molti adeguatamente analizzate dai moderatori. 
 * aggiungere bot al gruppo, salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
 * propaganda politica o proselitismo di fedi religiose, o contro le stesse.
@@ -98,7 +104,10 @@ Molestie e diffamazione, anche quando non costituiscano reato, sono comportament
 * Nomi che richiamano le funzioni di sistema o contengono termini usati comunemente (ad esempio "bot", etc.) o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti (ad esempio contenenti "amministratore", "moderatore", "sysop", etc.).
 * Nomi eccessivamente lunghi o articolati, difficili da riportare e ricordare, ad esempio lunghe sequenze casuali o apparentemente casuali di numeri o lettere ("ZJUn5XDLfqSve6yO", "asdfjjjjjjjk", "32104157238") inclusi i numeri di telefono o sequenze che assomiglino a indirizzi IPv4 e IPv6.
 
-## PROVVEDIMENTI IN CASO DI VIOLAZIONE DELLE LINEE GUIDA:
+## PROVVEDIMENTI IN CASO DI COMPORTAMENTI SCORRETTI:
+Gli amministratori hanno un'autorità speciale; sono i responsabili di questo gruppo. Ma anche tu lo sei. Con il tuo aiuto, gli amministratori possono essere facilitatori della comunità, non solo guardiani o polizia.
+Quando vedi un comportamento scorretto, non rispondere. Rispondere incoraggia il cattivo comportamento, consuma la tua energia e spreca il tempo di tutti. Basta segnalarlo agli amministratori. 
+
 In caso di commenti che non rispettano queste linee guida, gli amministratori del gruppo cancelleranno il post in questione e chiederanno, tramite commento pubblico e/o messaggio privato, di evitare di reiterare il comportamento.
 
 In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
@@ -118,4 +127,5 @@ Se un nome utente ti pare essere inappropriato, contatta un amministratore del g
 Qualora la segnalazione venga ritenuta congruente con le limitazioni ai nomi utente previste da questa policy del gruppo, l' amministratore provvederà ad inviare una richiesta di cambiamento all'utente con il nickname problematico, richiedendo la modifica, sospendendo nel frattempo la sua possibilità di postare nel gruppo.
 L'utente dovrà provvedere entro 1 giorno a modificare il nickname, passato il quale l'utente verrà definitivamente rimosso dal gruppo, al quale potrà riaccedere con un nickname in linea con questa policy.
 
-
+### Responsabilità
+Gli amministratori del gruppo non visualizzano l'anteprima di nuovi post; non si assumono alcuna responsabilità per i contenuti pubblicati dalla community.
