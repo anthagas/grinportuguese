@@ -19,15 +19,15 @@ Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di 
 
 Il TOPIC del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno alla medesima, e gli aspetti pratici legati al suo uso, le prospettive e la visione che la stessa sottintende. 
 
-Chiediamo a tutti di collaborare nel mantenere nel gruppo un'atmosfera favorevole al confronto.
-
 ### 1- Miglioriamo la discussione
 Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre per migliorarlo in qualche modo, per quanto piccolo. Se invece non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora su ciò che vuoi dire e intervieni in un secondo momento.
 
 Gli argomenti discussi nel gruppo sono importanti per noi e ti chiediamo di comportarti come se fossero importanti anche per te. Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
 
 La tua partecipazione conta !
+
 Le conversazioni che abbiamo qui danno il clima che si respira ad ogni nuovo arrivato. Aiutaci a influenzare il futuro di questa comunità scegliendo di impegnarti in discussioni che rendano questo gruppo uno spazio interessante in cui esserci!
+
 Lasciamo la nostra comunità meglio di come l'abbiamo trovata.
 
 #### Sii civile e sereno
