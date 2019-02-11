@@ -105,11 +105,7 @@ Gli amministratori sono tenuti ad uno standard più elevato rispetto agli altri 
 
 ### Gestione dei nomi utente inappropriati
 
-#### Segnalazione
-
 Se un nome utente ti pare essere inappropriato, contatta un amministratore del gruppo spiegando la tua motivazione riguardante il caso specifico.
-
-#### Gestione
 
 Qualora la segnalazione venga ritenuta congruente con le limitazioni ai nomi utente previste da questa policy del gruppo, l' amministratore provvederà ad inviare una richiesta di cambiamento all'utente con il nickname problematico, richiedendo la modifica, sospendendo nel frattempo la sua possibilità di postare nel gruppo.
 L'utente dovrà provvedere entro 1 giorno a modificare il nickname, passato il quale l'utente verrà definitivamente rimosso dal gruppo, al quale potrà riaccedere con un nickname in linea con questa policy.
