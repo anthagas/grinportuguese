@@ -15,10 +15,10 @@ https://t.me/grinitalia
   * Timothy Redaelli [@THREADelli](https://t.me/THREADelli)
 
 ## Linee guida di moderazione del gruppo
-### 1- Questo è un luogo civilizzato per discussioni pubbliche su Grin
+### 1- Questo è un luogo civile per discussioni pubbliche su Grin
 Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di un parco pubblico. Anche questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua.
 
-Quelle che seguono sono le linee guida che ci siamo dati per mantenere questo un luogo pulito, trasparente e civilizzato in cui discutere con educazione.
+Quelle che seguono sono le linee guida che ci siamo dati per mantenere questo gruppo un luogo in cui discutere civilmente di Grin e della tecnologia MimbleWimble. Parliamo dunque di questa tecnologia di cui siamo entusiasti, degli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), dei business sviluppati o da svilupparsi attorno alla medesima, e degli aspetti pratici legati al suo uso, delle prospettive e della visione che la stessa sottintende. 
 
 ### 2- Migliora la discussione
 Aiutaci a rendere questo un ottimo luogo di discussione lavorando sempre per migliorare la discussione in qualche modo, per quanto piccola. Se non sei sicuro che il tuo post aggiunga alla conversazione, pensa a ciò che vuoi dire e riprova più tardi.
@@ -36,34 +36,28 @@ In ogni discussione capita di dover esprimere il proprio disaccordo rispetto ad 
 * Risposte emotive immediate senza riflettere 
 
 Se rimani coinvolto tuo malgrado in una polemica, tieni la discussione incentrata sul tema con argomentazioni che migliorano la conversazione, non sulle persone coinvolte. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.**
+Ricorda che lo scopo di questo gruppo non è cercare di convincersi reciprocamente, assumi che le controparti abbiano una risorsa tempo limitata e rispetta questo vincolo. 
 
 Supponi sempre che gli individui parlino a titolo personale, e mai per conto delle organizzazioni di cui possono fare parte, a meno che non sia esplicitamente asserito il contrario dalla controparte. Cerca di evitare di cadere in fallacie logiche, ne trovi un elenco qui https://yourlogicalfallacyis.com
 
-Evitate di trollare su questa chat le persone o gli eventi accaduti su altre chat.
-Messaggi che incitano all'uso della violenza o all'odio razziale, etnico, nazionalistico o religioso non sono ammessi. 
-Mentre è consentito discutere qualsiasi idea politica o religiosa all'interno di un ragionamento attinenti al Grin, non sono ammesse invece ingiurie alle credenze altrui. Analogamente non è ammessa propaganda politica o di fedi religiose o contro le stesse. 
-Chiediamo a tutti di collaborare in questo senso nel mantenere nel gruppo un'atmosfera favorevole al confronto.
+Evita di trollare, in particolar modo rispetto a persone o eventi accaduti su altre chat.
 
-Non è ammesso chiedere denaro agli altri membri del gruppo in alcuna forma sia esso fiat o cryptocurrency, fatte salve grandi campagne che possono interessare molti. 
+Mentre è consentito discutere qualsiasi idea politica o religiosa all'interno di un ragionamento attinenti al Grin, non sono ammesse invece ingiurie alle credenze altrui.  
+
+Chiediamo a tutti di collaborare in questo senso nel mantenere nel gruppo un'atmosfera favorevole al confronto.
 
 Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro. Assumi sempre che un commento possa rimanere archiviato su sistemi di terze parti. Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
 
 La moderazione del gruppo non è topic della stesso. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
 
-### Regole del gruppo
-Il gruppo è stato creato per:
-  1. Discutere di Bitcoin e delle applicazioni e sviluppi della Blockchain Bitcoin.
-  2. Condividere le informazioni in merito.
-  3. Dare risposte e, nel limite del possibile, supporto ai neofiti che si avvicinano a questa tecnologia.
-
-Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), dei business sviluppati o da svilupparsi attorno alla medesima,  e degli aspetti pratici legati al suo uso, delle prospettive e della visione che la stessa sottintende. 
+#### Divieti
 
 **Gli amministratori di questo gruppo agiranno con la massima determinazione in questi casi:**
 
-* No Troll: non è ammesso trolling, teorie del complotto, attacchi ad hominem, paranoie, spam, disinformazione, "[montagne di merda](https://nientestronzate.wordpress.com/2014/11/01/la-teoria-della-montagna-di-merda-2/)".
-* No Propaganda : lo scopo di questo gruppo non è cercare di convincersi reciprocamente o il fare proselitismo. Assumete che le controparti abbiano una risorsa tempo limitata e rispettate questo vincolo. 
+* No Hate: Messaggi che incitano all'uso della violenza o all'odio razziale, etnico, nazionalistico o religioso non sono ammessi. 
+* No Moneybegging: Non è ammesso chiedere denaro agli altri membri del gruppo in alcuna forma sia esso fiat o cryptocurrency, fatte salve grandi campagne che possono interessare molti. 
 * No Bot: non sono ammessi bot nel gruppo salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
-* No Against: questo gruppo non è e non deve essere usato in contrapposizione ad altri gruppi.
+* No Proselytism: Non è ammessa propaganda politica o di fedi religiose o contro le stesse.
 * No Advertising: su questa chat è vietato pubblicizzare prodotti o servizi (anche cripto valute).
 * No Legal Threat: minacciare azioni legali è una tipica modalità per intimorire gli interlocutori. Se ritenete che qualcuno abbia davvero violato la legge, intraprendete -se lo ritenete- le azioni legali ma non minacciatele ne datene informazione in pubblico sulla chat.
 
