@@ -43,8 +43,6 @@ Mentre è consentito discutere qualsiasi idea politica o religiosa all'interno d
 
 Chiediamo a tutti di collaborare in questo senso nel mantenere nel gruppo un'atmosfera favorevole al confronto.
 
-Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro. Assumi sempre che un commento possa rimanere archiviato su sistemi di terze parti. Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
-
 #### Scrivi in modo leggibile.
 Tieni conto che è un gruppo di centinaia di persone (molte delle quali ricevono notifica di ogni nuovo post): cerca di pubblicare in modo ordinato, compatto e responsabile.
 
@@ -52,8 +50,11 @@ Tieni conto che è un gruppo di centinaia di persone (molte delle quali ricevono
 
 Può capitare che la discussione degeneri facilmente e si venga subissati di messaggi inviati in rapida successione. In casi come questi perdere il filo del discorso è questione di pochi messaggi: si possono intrecciare dialoghi e discussioni differenti, rendendo illeggibile e di difficile comprensione il flusso del gruppo. Per questo motivo è consigliabile inviare un unico messaggio, anche lungo, e attendere che il destinatario (o i destinatari) risponda prima di inviare un secondo messaggio.
 
+Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro. Assumi sempre che un commento possa rimanere archiviato su sistemi di terze parti. Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
+
 #### Rispetta la privacy
 Non richiedere agli altri utenti informazioni personali di qualsiasi tipo. Se dopo essere entrati in confidenza volete scambiare questo genere di informazioni fatelo attraverso messaggi personali e non sul gruppo.
+
 Se un utente sta utilizzando un alias, un soprannome o uno pseudonimo, rispetta il suo desiderio di anonimato. Anche se si è amici intimi di quella persona è più cortese usare il suo soprannome. Non usare il vero nome di quella persona in questo gruppo senza il suo permesso.
 
 ### 2- Divieti
@@ -64,11 +65,11 @@ Non sono ammessi :
 * bot, salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
 * propaganda politica o proselitismo di fedi religiose, o contro le stesse.
 * pubblicità di prodotti o servizi (anche cripto valute).
-* la minaccia di azioni legali: è una tipica modalità per intimorire gli interlocutori. Se ritenete che qualcuno abbia davvero violato la legge, intraprendete -se lo ritenete- le azioni legali ma non minacciatele ne datene informazione in pubblico sulla chat.
-* il dibattito pubblico sulla moderazione del gruppo (non è topic della stesso). Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
+* la minaccia di azioni legali: è una tipica modalità per intimorire gli interlocutori. Se pensi che qualcuno abbia davvero violato la legge, contatta il tuo legale per le verifiche del caso ma non minacciare o notificare in pubblico riguardo ad azioni legali.
+* messaggi che discutono su come operano i moderatori. La moderazione del gruppo non è topic della stesso. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
 
 ### 3- Policy riguardo username e nickname
-Nel gruppo non è permesso l'impiego di nomi utente inappropriati. Che ti sembri giusto o no, stabilire il confine tra nomi utente accettabili e inaccettabili non spetta al creatore del nome utente ma ai moderatori del gruppo.
+Nel gruppo non è permesso l'impiego di nomi utente inappropriati. Che ti sembri giusto o no, stabilire il confine tra nomi utente accettabili e inaccettabili all'interno del gruppo spetta ai moderatori del medesimo.
 
 Di seguito si esemplificano alcune categorie di nomi non consentiti (l'elenco non è esaustivo).
 
@@ -102,7 +103,7 @@ Molestie e diffamazione, anche quando non costituiscano reato, sono comportament
 * Nomi che richiamano le funzioni di sistema o contengono termini usati comunemente (ad esempio "bot", etc.) o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti (ad esempio contenenti "amministratore", "moderatore", "sysop", etc.).
 * Nomi eccessivamente lunghi o articolati, difficili da riportare e ricordare, ad esempio lunghe sequenze casuali o apparentemente casuali di numeri o lettere ("ZJUn5XDLfqSve6yO", "asdfjjjjjjjk", "32104157238") inclusi i numeri di telefono o sequenze che assomiglino a indirizzi IPv4 e IPv6.
 
-### PROVVEDIMENTI IN CASO DI VIOLAZIONE DELLE POLICY:
+## PROVVEDIMENTI IN CASO DI VIOLAZIONE DELLE POLICY:
 In caso di commenti che non rispettino le semplici regole di cui sopra, gli amministratori del gruppo cancelleranno il post in violazione delle regole e vi chiederanno, tramite commento pubblico e/o messaggio privato, di stare più attenti e di sforzarvi di più.
 
 In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, gli amministratori (che non possono perdere anni a ripetere sempre le stesse richieste alle mendesime persone) il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
@@ -111,13 +112,13 @@ In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione 
 
 Alla terza violazione delle policy della lista, gli amministratori del gruppo banneranno definitivamente il responsabile delle violazioni.
 
-#### Gestione dei nomi utente inappropriati
+### Gestione dei nomi utente inappropriati
 
-**Segnalazione**
+#### Segnalazione
 
 Per segnalare ad un utente che il suo nome utente pare essere inappropriato, contattare i moderatori del gruppo segnalando una motivazione riguardante il caso specifico.
 
-**Gestione**
+#### Gestione
 
 Qualora la segnalazione venga ritenuta congruente con le limitazioni ai nomi utente previste da questa policy del gruppo, il moderatore provvederà ad inviare una richiesta di cambiamento all'utente con il nickname problematico, richiedendo la modifica, sospendendo nel frattempo la sua possibilità di postare nel gruppo.
 L'utente dovrà provvedere entro 1 giorno a modificare il nickname, passato il quale l'utente verrà definitivamente rimosso dal gruppo, al quale potrà riaccedere con un nickname in linea con questa policy.
