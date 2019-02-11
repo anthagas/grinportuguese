@@ -15,7 +15,7 @@ https://t.me/grinitalia
   * Timothy Redaelli [@THREADelli](https://t.me/THREADelli)
 
 ## Questo è un luogo civile per discussioni pubbliche su Grin
-Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di un parco pubblico. Anche questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua. Quelle che seguono sono le linee guida che ci siamo dati per mantenere questo gruppo un luogo in cui discutere civilmente di Grin e della tecnologia MimbleWimble. 
+Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di un parco pubblico. Anche questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua. Quelle che seguono sono le linee guida che ci siamo dati per mantenere questo gruppo uno spazio in cui discutere civilmente di Grin e della tecnologia MimbleWimble. 
 
 Il TOPIC del gruppo è dunque questa tecnologia di cui siamo entusiasti, gli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno alla medesima, e gli aspetti pratici legati al suo uso, le prospettive e la visione che la stessa sottintende. 
 
@@ -61,11 +61,11 @@ Se un utente sta utilizzando un alias, un soprannome o uno pseudonimo, rispetta 
 
 Non sono ammessi :
 * messaggi che incitano all'uso della violenza o all'odio razziale, etnico, nazionalistico o religioso. 
-* richieste denaro ad altri membri del gruppo in alcuna forma sia esso fiat o cryptocurrency, fatte salve grandi campagne che possono interessare molti. 
-* bot, salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
+* richieste di denaro ad altri membri del gruppo in alcuna forma sia esso fiat o cryptocurrency, fatte salve grandi campagne che possono interessare molti adeguatamente analizzate dai moderatori. 
+* aggiungere bot al gruppo, salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
 * propaganda politica o proselitismo di fedi religiose, o contro le stesse.
 * pubblicità di prodotti o servizi (anche cripto valute).
-* la minaccia di azioni legali: è una tipica modalità per intimorire gli interlocutori. Se pensi che qualcuno abbia davvero violato la legge, contatta il tuo legale per le verifiche del caso ma non minacciare o notificare in pubblico riguardo ad azioni legali.
+* minacce di azioni legali: è una tipica modalità per intimorire gli interlocutori. Se pensi che qualcuno abbia davvero violato la legge, contatta il tuo legale per le verifiche del caso ma non minacciare o notificare in pubblico riguardo ad azioni legali.
 * messaggi che discutono su come operano i moderatori. La moderazione del gruppo non è topic della stesso. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
 
 ### 3- Policy riguardo username e nickname
@@ -104,9 +104,9 @@ Molestie e diffamazione, anche quando non costituiscano reato, sono comportament
 * Nomi eccessivamente lunghi o articolati, difficili da riportare e ricordare, ad esempio lunghe sequenze casuali o apparentemente casuali di numeri o lettere ("ZJUn5XDLfqSve6yO", "asdfjjjjjjjk", "32104157238") inclusi i numeri di telefono o sequenze che assomiglino a indirizzi IPv4 e IPv6.
 
 ## PROVVEDIMENTI IN CASO DI VIOLAZIONE DELLE POLICY:
-In caso di commenti che non rispettino le semplici regole di cui sopra, gli amministratori del gruppo cancelleranno il post in violazione delle regole e vi chiederanno, tramite commento pubblico e/o messaggio privato, di stare più attenti e di sforzarvi di più.
+In caso di commenti che non rispettano le semplici regole di cui sopra, gli amministratori del gruppo cancelleranno il post in violazione delle regole e ti chiederanno, tramite commento pubblico e/o messaggio privato, di evitare la violazione per il futuro.
 
-In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, gli amministratori (che non possono perdere anni a ripetere sempre le stesse richieste alle mendesime persone) il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
+In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
 
 **'Three strikes and you're out'**
 
