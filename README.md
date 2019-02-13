@@ -19,18 +19,16 @@ Le presenti linee guida del gruppo cercano di rispecchiare e rendere specifiche 
 ## Questo è un luogo civile per discussioni pubbliche su Grin e MimbleWimble
 Il TOPIC del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici a questi direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno ai medesimi, e gli aspetti pratici legati al loro uso, le prospettive e la visione che gli stessi sottintendono. 
 
-Questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua. Tratta questo gruppo di discussione con lo stesso rispetto che si deve avere di un parco pubblico. 
-
-Ci impegniamo a fornire un ambiente amichevole, sicuro e accogliente per tutti, indipendentemente dal livello di esperienza, genere, identità ed espressione di genere, orientamento sessuale, disabilità, aspetto personale, corporatura, razza, etnia, età, religione, nazionalità o altra caratteristica simile, fatto salvo indicare un gruppo nella lingua appropriata a chi si unisse al gruppo non sapendo parlare italiano.
-
-Il nostro scopo non è semplicemente sforzarci di eccellere tecnicamente, ma contribuire alla comunità di Grin eccellendo nel comportamento tra di noi. Per questa ragione ti chiediamo di astenerti dal "giocare" con questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
+Questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua. Obiettivo del gruppo è manetenere un ambiente amichevole, sicuro e accogliente per tutti, indipendentemente dal livello di esperienza, genere, identità ed espressione di genere, orientamento sessuale, disabilità, aspetto personale, corporatura, razza, etnia, età, religione, nazionalità o altra caratteristica simile, fatto salvo indicare un gruppo nella lingua appropriata a chi si unisse al gruppo non sapendo parlare italiano.
 
 ### 1- Miglioriamo la discussione
 Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre insieme per migliorarlo. Se non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora sul tuo contributo e intervieni eventualmente in un secondo momento.
 
-Gli argomenti discussi nel gruppo sono importanti per noi e ti chiediamo di comportarti come se fossero importanti anche per te. Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
+Avere un ottimo confronto per noi non è semplicemente lo sforzo di eccellere tecnicamente, ma anche eccellere nel comportamento tra di noi. Per questa ragione ti chiediamo di astenerti dal "giocare" su questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte intestine inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
 
-Le conversazioni che facciamo danno il clima che si respira ad ogni nuovo arrivato. Aiutaci a influenzare il futuro di questa comunità scegliendo di impegnarti in discussioni che rendano il gruppo uno spazio interessante da frequentare.
+Le conversazioni che facciamo danno anche il clima che si respira ad ogni nuovo arrivato. Aiutaci a influenzare il futuro di questa comunità scegliendo di impegnarti in discussioni che rendano il gruppo uno spazio interessante da frequentare.
+
+Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
 
 #### Sii civile e sereno
 In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad una argomentazione. Non c'è nulla di sbagliato in ciò. Ricordati solo ricorda di criticare le idee, **non le persone**, evitando:
@@ -41,7 +39,7 @@ In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad
 * Risposte immediate basate sulle emozioni senza riflessione 
 * Comportamenti da Troll
 
-Se rimani coinvolto tuo malgrado in una polemica, tieni la discussione incentrata sul tema con argomentazioni che migliorano la conversazione, non sulle persone coinvolte. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.**
+Se rimani coinvolto tuo malgrado in una polemica, tieni la discussione incentrata sul tema con argomentazioni che migliorano la conversazione, non sulle persone coinvolte. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.** Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro.
 
 Ricorda che lo scopo di questo gruppo non è cercare di convincersi reciprocamente, assumi che le controparti abbiano la risorsa tempo limitata e rispetta questo vincolo. 
 
@@ -52,7 +50,7 @@ Tieni conto che sei in un gruppo di centinaia di persone (molte delle quali rice
 
 Può capitare che la discussione degeneri facilmente e si venga subissati di messaggi inviati in rapida successione. In casi come questi perdere il filo del discorso è questione di pochi messaggi: si possono intrecciare dialoghi e discussioni differenti, rendendo illeggibile e di difficile comprensione il flusso del gruppo. Per questo motivo è consigliabile inviare un unico messaggio, anche lungo, e attendere che il destinatario (o i destinatari) risponda prima di inviare un secondo messaggio.
 
-Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro. Assumi sempre che un commento possa rimanere archiviato su sistemi di terze parti. Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
+Assumi sempre che un commento possa rimanere archiviato su sistemi di terze parti. Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
 
 #### Rispetta la privacy
 Non richiedere agli altri utenti informazioni personali di qualsiasi tipo. Se dopo essere entrati in confidenza volete scambiare questo genere di informazioni fatelo attraverso messaggi personali e non sul gruppo.
