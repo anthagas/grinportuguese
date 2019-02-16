@@ -69,11 +69,11 @@ Non sono ammessi :
 * pubblicità di prodotti o servizi (anche cripto valute).
 * minacce di azioni legali: è una tipica modalità per intimorire gli interlocutori. Se pensi che qualcuno abbia davvero violato la legge, contatta il tuo legale per le verifiche del caso ma non minacciare o notificare nel gruppo riguardo ad azioni legali.
 * messaggi che discutono su come operano gli amministratori. La moderazione del gruppo non è topic dello stesso. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
-* non è permesso l'impiego di nomi utente inappropriati. Di seguito alcune categorie di nomi non consentiti, neanche in variazioni creative basate su sostituzioni ortografiche o di lettere e numeri:
-  * nomi utente provocatori, che possono essere percepiti come offensivi o provocatori, divenire oggetto di abuso, risultare sgradevoli nei confronti degli altri utenti. 
-  * nomi utente promozionali, che riproducono o reclamizzano un'impresa, un marchio o un prodotto commerciale. 
-  * nomi utente diffamatori o abusivi, usati come un mezzo per attaccare altri utenti o anche solo sottolineare il disaccordo con loro.
-  * nomi utente che generano confusione con quelli di altri utenti specie se molto noti, o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti.
+* l'impiego di nomi utente:
+  * provocatori, che possono essere percepiti come offensivi o provocatori, divenire oggetto di abuso, risultare sgradevoli nei confronti degli altri utenti. 
+  * promozionali, che riproducono o reclamizzano un'impresa, un marchio o un prodotto commerciale. 
+  * diffamatori o abusivi, usati come un mezzo per attaccare altri utenti o anche solo sottolineare il disaccordo con loro.
+  * che generano confusione con quelli di altri utenti specie se molto noti, o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti.
 
 ## PROVVEDIMENTI IN CASO DI COMPORTAMENTI SCORRETTI:
 Gli amministratori hanno un ruolo; sono i facilitatori di questa comunità. Ma anche tu lo sei. 
