@@ -30,7 +30,7 @@ Le conversazioni che facciamo danno anche il clima che si respira ad ogni nuovo 
 
 Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
 
-#### Sii civile e sereno
+### 2- Sii civile e sereno
 In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad una argomentazione. Non c'è nulla di sbagliato in ciò. Ricordati solo ricorda di criticare le idee, **non le persone**, evitando:
 
 * Insulti
@@ -45,19 +45,19 @@ Ricorda che lo scopo di questo gruppo non è cercare di convincersi reciprocamen
 
 Supponi sempre che gli individui parlino a titolo personale, e mai per conto delle organizzazioni di cui possono fare parte, a meno che non sia esplicitamente asserito il contrario dalla controparte. Cerca di evitare di cadere in fallacie logiche, ne trovi un elenco qui https://yourlogicalfallacyis.com
 
-#### Scrivi in modo leggibile.
+### 3- Scrivi in modo leggibile.
 Tieni conto che sei in un gruppo di centinaia di persone (molte delle quali ricevono notifica di ogni nuovo post): cerca di pubblicare in modo ordinato, compatto e responsabile. **Non intasare il gruppo con messaggi in rapida successione.**
 
 Può capitare che la discussione degeneri facilmente e si venga subissati di messaggi inviati in rapida successione. In casi come questi perdere il filo del discorso è questione di pochi messaggi: si possono intrecciare dialoghi e discussioni differenti, rendendo illeggibile e di difficile comprensione il flusso del gruppo. Per questo motivo è consigliabile inviare un unico messaggio, anche lungo, e attendere che il destinatario (o i destinatari) risponda prima di inviare un secondo messaggio.
 
 Assumi sempre che un commento possa rimanere archiviato su sistemi di terze parti. Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
 
-#### Rispetta la privacy
+### 4- Rispetta la privacy
 Non richiedere agli altri utenti informazioni personali di qualsiasi tipo. Se dopo essere entrati in confidenza volete scambiare questo genere di informazioni fatelo attraverso messaggi personali e non sul gruppo.
 
 Se un utente sta utilizzando un alias, un soprannome o uno pseudonimo, rispetta il suo desiderio di anonimato. Anche se si è amici intimi di quella persona è più cortese usare il suo soprannome. Non usare il vero nome di quella persona in questo gruppo senza il suo permesso.
 
-### 2- Comportamenti non ammessi
+### 5- Comportamenti non ammessi
 
 Non sono ammessi :
 * messaggi che incitano all'uso della violenza o all'odio razziale, etnico, nazionalistico o religioso. 
