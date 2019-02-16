@@ -14,7 +14,7 @@ https://t.me/grinitalia
   * Simone Da Re [@SimoneDaRe](https://t.me/SimoneDaRe)
   * Timothy Redaelli [@THREADelli](https://t.me/THREADelli)
 ### Codice di condotta della Community Grin
-Le presenti linee guida del gruppo cercano di rispecchiare e rendere specifiche per lo strumento Telegram e la lingua e cultura italiane le [linee guida della community Grin](https://github.com/mimblewimble/grin/blob/master/CODE_OF_CONDUCT.md).
+Le presenti linee guida del gruppo cercano di rispecchiare le [linee guida della community Grin](https://github.com/mimblewimble/grin/blob/master/CODE_OF_CONDUCT.md), rendendole specifiche per lo strumento Telegram, traducendole in Italiano e conetstualizzandole alla community italiana di Grin. 
 
 ## Questo è un luogo civile per discussioni pubbliche su Grin e MimbleWimble
 Il TOPIC del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici a questi direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno ai medesimi, e gli aspetti pratici legati al loro uso, le prospettive e la visione che gli stessi sottintendono. 
@@ -22,11 +22,11 @@ Il TOPIC del gruppo è **Grin**, medium of exchange basato sulla tecnologia Mimb
 Questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua. Obiettivo del gruppo è manetenere un ambiente amichevole, sicuro e accogliente per tutti, indipendentemente dal livello di esperienza, genere, identità ed espressione di genere, orientamento sessuale, disabilità, aspetto personale, corporatura, razza, etnia, età, religione, nazionalità o altra caratteristica simile, fatto salvo indicare un gruppo nella lingua appropriata a chi si unisse al gruppo non sapendo parlare italiano.
 
 ### 1- Miglioriamo la discussione
-Aiutaci a rendere questo gruppo un ottimo luogo di discussione lavorando sempre insieme per migliorarlo. Se non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora sul tuo contributo e intervieni eventualmente in un secondo momento.
+Aiutaci a rendere questo gruppo un ottimo luogo di discussione. Se non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora sul tuo contributo e intervieni eventualmente in un secondo momento.
 
-Avere un ottimo confronto per noi non è semplicemente lo sforzo di eccellere tecnicamente, ma anche eccellere nel comportamento tra di noi. Per questa ragione ti chiediamo di astenerti dal "giocare" su questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte intestine inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
+Avere un ottimo confronto per noi non significa solamente eccellere nella discussione tecnica, ma anche eccellere nel comportamento tra di noi. Per questa ragione ti chiediamo di astenerti dal "giocare" su questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte intestine inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
 
-Le conversazioni che facciamo danno anche il clima che si respira ad ogni nuovo arrivato. Aiutaci a influenzare il futuro di questa comunità scegliendo di impegnarti in discussioni che rendano il gruppo uno spazio interessante da frequentare.
+Le conversazioni che facciamo danno anche il clima che si respira ad ogni nuovo arrivato. Scegli di impegnarti in discussioni che rendano il gruppo uno spazio interessante da frequentare.
 
 Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
 
@@ -69,23 +69,11 @@ Non sono ammessi :
 * pubblicità di prodotti o servizi (anche cripto valute).
 * minacce di azioni legali: è una tipica modalità per intimorire gli interlocutori. Se pensi che qualcuno abbia davvero violato la legge, contatta il tuo legale per le verifiche del caso ma non minacciare o notificare nel gruppo riguardo ad azioni legali.
 * messaggi che discutono su come operano gli amministratori. La moderazione del gruppo non è topic dello stesso. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
-
-### 3- Linee guida riguardo username e nickname
-Nel gruppo non è permesso l'impiego di nomi utente inappropriati. Che ti sembri giusto o no, stabilire il confine tra nomi utente accettabili e inaccettabili all'interno del gruppo spetta ai moderatori del medesimo.
-
-Di seguito si esemplificano alcune categorie di nomi non consentiti, neanche in variazioni creative basate su sostituzioni ortografiche o di lettere e numeri.
-
-#### Nomi utente provocatori
-Tali nomi utente possono essere percepiti come offensivi o provocatori, divenire oggetto di abuso, risultare sgradevoli nei confronti degli altri utenti. In ogni caso essi distraggono dal dibattito di merito su Grin.
-
-#### Nomi utente promozionali
-Vietare questo genere di nomi che riproducono o reclamizzano un'impresa, un marchio o un prodotto commerciale è prima di tutto a tutela dell'impresa: dato che non abbiamo modo di confermare l'identità dei propri utenti, non si può garantire che un marchio venga usato solo dai legittimi proprietari. Il nome utente in ogni caso deve riferirsi ad una singola persona, non ad un gruppo o azienda. 
-
-#### Nomi utente diffamatori o abusivi
-Molestie e diffamazione, anche quando non costituiscano reato, sono comportamenti inappropriati: il nome utente non è un mezzo per attaccare altri utenti o anche solo sottolineare il disaccordo con loro. Ne può essere usato per divulgare dati personali di altri utenti.
-
-#### Nomi utente che generano confusione
-Nomi che possono essere confusi con quelli di altri utenti, specie se molto noti (amministratori, utenti precedentemente bannati dal gruppo). Nomi che richiamano le funzioni di sistema o contengono termini usati comunemente (ad esempio "bot", etc.) o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti (ad esempio contenenti "amministratore", "moderatore", "sysop", etc.).
+* non è permesso l'impiego di nomi utente inappropriati. Di seguito alcune categorie di nomi non consentiti, neanche in variazioni creative basate su sostituzioni ortografiche o di lettere e numeri:
+ - Nomi utente provocatori, che possono essere percepiti come offensivi o provocatori, divenire oggetto di abuso, risultare sgradevoli nei confronti degli altri utenti. In ogni caso essi distraggono dal dibattito di merito su Grin.
+ - Nomi utente promozionali, che riproducono o reclamizzano un'impresa, un marchio o un prodotto commerciale. Dato che non abbiamo modo di confermare l'identità dei propri utenti, non si può garantire che un marchio venga usato solo dai legittimi proprietari. 
+ - Nomi utente diffamatori o abusivi, il nome utente non è un mezzo per attaccare altri utenti o anche solo sottolineare il disaccordo con loro. Ne può essere usato per divulgare dati personali di altri utenti.
+ - Nomi utente che generano confusione, con quelli di altri utenti, specie se molto noti (amministratori, utenti precedentemente bannati dal gruppo). Nomi che richiamano le funzioni di sistema o contengono termini usati comunemente (ad esempio "bot", etc.) o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti (ad esempio contenenti "amministratore", "moderatore", etc.).
 
 ## PROVVEDIMENTI IN CASO DI COMPORTAMENTI SCORRETTI:
 Gli amministratori hanno un ruolo; sono i facilitatori di questa comunità. Ma anche tu lo sei. 
