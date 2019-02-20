@@ -14,7 +14,7 @@ https://t.me/grinitalia
   * Simone Da Re [@SimoneDaRe](https://t.me/SimoneDaRe)
   * Timothy Redaelli [@THREADelli](https://t.me/THREADelli)
 ### Codice di condotta della Community Grin
-Le presenti linee guida del gruppo cercano di rispecchiare le [linee guida della community Grin](https://github.com/mimblewimble/grin/blob/master/CODE_OF_CONDUCT.md), rendendole specifiche per lo strumento Telegram, traducendole in Italiano e conetstualizzandole alla community italiana di Grin. 
+Le presenti linee guida del gruppo cercano di rispecchiare le [linee guida della community Grin](https://github.com/mimblewimble/grin/blob/master/CODE_OF_CONDUCT.md), rendendole specifiche per lo strumento Telegram, traducendole in Italiano e contestualizzandole alla community italiana di Grin. 
 
 ## Questo è un luogo civile per discussioni pubbliche su Grin e MimbleWimble
 Il tema del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici a questi direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno ai medesimi, e gli aspetti pratici legati al loro uso, le prospettive e la visione che gli stessi sottintendono. 
