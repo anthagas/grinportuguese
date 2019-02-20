@@ -57,7 +57,7 @@ Non richiedere agli altri utenti informazioni personali di qualsiasi tipo. Se do
 
 Se un utente sta utilizzando un alias, un soprannome o uno pseudonimo, rispetta il suo desiderio di anonimato. Anche se si è amici intimi di quella persona è più cortese usare il suo soprannome. Non usare il vero nome di quella persona in questo gruppo senza il suo permesso.
 
-### 5- Comportamenti non ammessi
+### 5- Comportamenti scorretti non ammissibili
 
 Non è/sono ammessi :
 * messaggi che incitano all'uso della violenza o all'odio razziale, etnico, nazionalistico o religioso. 
