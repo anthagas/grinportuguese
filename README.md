@@ -17,12 +17,12 @@ https://t.me/grinitalia
 Le presenti linee guida del gruppo cercano di rispecchiare le [linee guida della community Grin](https://github.com/mimblewimble/grin/blob/master/CODE_OF_CONDUCT.md), rendendole specifiche per lo strumento Telegram, traducendole in Italiano e conetstualizzandole alla community italiana di Grin. 
 
 ## Questo è un luogo civile per discussioni pubbliche su Grin e MimbleWimble
-Il TOPIC del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici a questi direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno ai medesimi, e gli aspetti pratici legati al loro uso, le prospettive e la visione che gli stessi sottintendono. 
+Il tema del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici a questi direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno ai medesimi, e gli aspetti pratici legati al loro uso, le prospettive e la visione che gli stessi sottintendono. 
 
 Questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua. Obiettivo del gruppo è manetenere un ambiente amichevole, sicuro e accogliente per tutti, indipendentemente dal livello di esperienza, genere, identità ed espressione di genere, orientamento sessuale, disabilità, aspetto personale, corporatura, razza, etnia, età, religione, nazionalità o altra caratteristica simile, fatto salvo indicare un gruppo nella lingua appropriata a chi si unisse al gruppo non sapendo parlare italiano.
 
 ### 1- Miglioriamo la discussione
-Aiutaci a rendere questo gruppo un ottimo luogo di discussione. Se non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora sul tuo contributo e intervieni eventualmente in un secondo momento.
+Aiutaci a rendere questo gruppo un ottimo luogo di discussione. **Rimani sul tema.** Se non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora sul tuo contributo e intervieni eventualmente in un secondo momento.
 
 Avere un ottimo confronto per noi non significa solamente eccellere nella discussione tecnica, ma anche eccellere nel comportamento tra di noi. Per questa ragione ti chiediamo di astenerti dal "giocare" su questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte intestine inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
 
@@ -59,10 +59,11 @@ Se un utente sta utilizzando un alias, un soprannome o uno pseudonimo, rispetta 
 
 ### 5- Comportamenti non ammessi
 
-Non sono ammessi :
+Non è/sono ammessi :
 * messaggi che incitano all'uso della violenza o all'odio razziale, etnico, nazionalistico o religioso. 
 * insulti, molestie o stalking, impersonare persone o esporre le loro informazioni private. 
 * pubblicazione di materiale osceno o sessualmente esplicito.
+* ripetuto andare fuori tema nonostante avvisi in tal senso da parte degli amministratori del gruppo.
 * richieste di denaro ad altri membri del gruppo in alcuna forma sia esso fiat o cryptocurrency, fatte salve campagne di pubblico interesse, autorizzate dai moderatori. (es. Yeastplume funding campaign) 
 * aggiungere bot al gruppo, salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
 * propaganda politica o proselitismo di fedi religiose, o contro le stesse.
