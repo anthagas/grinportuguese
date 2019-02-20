@@ -69,7 +69,7 @@ Non è/sono ammessi :
 * propaganda politica o proselitismo di fedi religiose, o contro le stesse.
 * pubblicità di prodotti o servizi (anche cripto valute).
 * minacce di azioni legali: è una tipica modalità per intimorire gli interlocutori. Se pensi che qualcuno abbia davvero violato la legge, contatta il tuo legale per le verifiche del caso ma non minacciare o notificare nel gruppo riguardo ad azioni legali.
-* messaggi che discutono su come operano gli amministratori. La moderazione del gruppo non è topic dello stesso. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
+* messaggi che discutono su come il gruppo è moderato dagli amministratori. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
 * l'impiego di nomi utente:
   * provocatori, che possono essere percepiti come offensivi o provocatori, divenire oggetto di abuso, risultare sgradevoli nei confronti degli altri utenti. 
   * promozionali, che riproducono o reclamizzano un'impresa, un marchio o un prodotto commerciale. 
