@@ -22,7 +22,7 @@ Il tema del gruppo è **Grin**, medium of exchange basato sulla tecnologia Mimbl
 Questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua. Obiettivo del gruppo è manetenere un ambiente amichevole, sicuro e accogliente per tutti, indipendentemente dal livello di esperienza, genere, identità ed espressione di genere, orientamento sessuale, disabilità, aspetto personale, corporatura, razza, etnia, età, religione, nazionalità o altra caratteristica simile, fatto salvo indicare un gruppo nella lingua appropriata a chi si unisse al gruppo non sapendo parlare italiano.
 
 ### 1- Miglioriamo la discussione
-Aiutaci a rendere questo gruppo un ottimo luogo di discussione. **Rimani sul tema.** Se non sei sicuro che il tuo intervento aggiunga valore alla conversazione, rifletti ancora sul tuo contributo e intervieni eventualmente in un secondo momento.
+Aiutaci a rendere questo gruppo un ottimo luogo di discussione. **Rimani sul tema.** 
 
 Avere un ottimo confronto per noi non significa solamente eccellere nella discussione tecnica, ma anche eccellere nel comportamento tra di noi. Per questa ragione ti chiediamo di astenerti dal "giocare" su questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte intestine inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
 
