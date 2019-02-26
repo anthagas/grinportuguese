@@ -9,6 +9,7 @@ https://t.me/grinitalia
   * Bitergosum [@bitergosum](https://t.me/bitergosum)
   * Lit3block [@Lit3block](https://t.me/Lit3block)
   * Manuel A. [@manuel1975a](https://t.me/manuel1975a)
+  * mauropi [@mauropi](https://t.me/mauropi)
   * Pablo Wong [@mamamialetmego](https://t.me/mamamialetmego)
   * Riccardo Masutti [@RiccardoMasutti](https://t.me/RiccardoMasutti)
   * Simone Da Re [@SimoneDaRe](https://t.me/SimoneDaRe)
