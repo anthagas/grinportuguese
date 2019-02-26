@@ -29,7 +29,7 @@ Avere un ottimo confronto per noi non significa solamente eccellere nella discus
 
 Le conversazioni che facciamo danno anche il clima che si respira ad ogni nuovo arrivato. Scegli di impegnarti in discussioni che rendano il gruppo uno spazio interessante da frequentare.
 
-Sii rispettosi degli argomenti e delle persone che li discutono, anche se non sei d'accordo con qualcosa di ciò che viene detto.
+Sii rispettoso degli argomenti e delle persone, anche se non sei d'accordo con qualcosa di ciò che viene detto.
 
 ### 2- Sii civile e sereno
 In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad una argomentazione. Non c'è nulla di sbagliato in ciò. Ricordati solo ricorda di criticare le idee, **non le persone**, evitando:
@@ -40,7 +40,7 @@ In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad
 * Risposte immediate basate sulle emozioni senza riflessione 
 * Comportamenti da Troll
 
-Se rimani coinvolto tuo malgrado in una polemica, tieni la discussione incentrata sul tema con argomentazioni che migliorano la conversazione, non sulle persone coinvolte. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.** Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro.
+Se rimani coinvolto tuo malgrado in una polemica, tieni la discussione incentrata sul tema, non sulle persone coinvolte. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.** Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro.
 
 Ricorda che lo scopo di questo gruppo non è cercare di convincersi reciprocamente, assumi che le controparti abbiano la risorsa tempo limitata e rispetta questo vincolo. 
 
