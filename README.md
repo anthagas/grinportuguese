@@ -1,102 +1,92 @@
-# Gruppo Telegram “Grin mimblewimble Italia” 
+# Grupo Telegram “Grin mimblewimble em Português” 
 
-## Informazioni generali
-### Per entrare nel gruppo
-https://t.me/grinitalia
-### Amministratori del gruppo
-(in ordine strettamente alfabetico di nome)
-  * Andrea Benetton [@Andbene72](https://t.me/Andbene72)
-  * Bitergosum [@bitergosum](https://t.me/bitergosum)
-  * Lit3block [@Lit3block](https://t.me/Lit3block)
-  * Manuel A. [@manuel1975a](https://t.me/manuel1975a)
-  * mauropi [@mauropi](https://t.me/mauropi)
-  * Pablo Wong [@mamamialetmego](https://t.me/mamamialetmego)
-  * Riccardo Masutti [@RiccardoMasutti](https://t.me/RiccardoMasutti)
-  * Simone Da Re [@SimoneDaRe](https://t.me/SimoneDaRe)
-  * Timothy Redaelli [@THREADelli](https://t.me/THREADelli)
-### Codice di condotta della Community Grin
-Le presenti linee guida del gruppo cercano di rispecchiare le [linee guida della community Grin](https://github.com/mimblewimble/grin/blob/master/CODE_OF_CONDUCT.md), rendendole specifiche per lo strumento Telegram, traducendole in Italiano e contestualizzandole alla community italiana di Grin. 
+## Informações Gerais
+### Para entrar no nosso grupo
+https://t.me/grinportuguese
+### Administradores do grupo
+  * António Chagas [@anthagas](https://t.me/anthagas)
 
-## Questo è un luogo civile per discussioni pubbliche su Grin e MimbleWimble
-Il tema del gruppo è **Grin**, medium of exchange basato sulla tecnologia MimbleWimble, gli argomenti teorici a questi direttamente collegati (economici, sociali, legali, tecnologici), i business sviluppati o da svilupparsi attorno ai medesimi, e gli aspetti pratici legati al loro uso, le prospettive e la visione che gli stessi sottintendono. 
+### Código de conduta da comunidade Grin
+O presente guia segue a [linha de conduta da comunidade Grin](https://github.com/mimblewimble/grin/blob/master/CODE_OF_CONDUCT.md), tornando-os específicos para a plataforma Telegram, traduzindo-os para o português e contextualizando-os para a comunidade Grin de língua portuguesa.
 
-Questo gruppo è una risorsa comunitaria condivisa, un luogo in cui condividere competenze, conoscenze e interessi attraverso una conversazione continua. Obiettivo del gruppo è mantenere un ambiente amichevole, sicuro e accogliente per tutti, indipendentemente dal livello di esperienza, genere, identità ed espressione di genere, orientamento sessuale, disabilità, aspetto personale, corporatura, razza, etnia, età, religione, nazionalità o altra caratteristica simile, fatto salvo indicare un gruppo nella lingua appropriata a chi si unisse al gruppo non sapendo parlare italiano.
+## Este é um espaço civilizado para discussões públicas sobre Grin e a tecnologia mimblewimble
+O tema do grupo é **Grin**, um meio de troca baseado na tecnologia mimblewimble, os argumentos teóricos diretamente relacionados com estes (económicos, sociais, legais e tecnológicos), os negócios desenvolvidos ou a serem desenvolvidos em torno destes, os aspetos práticos relacionados com o seu uso, suas perspetivas e visão.
 
-### 1- Miglioriamo la discussione
-Aiutaci a rendere questo gruppo un ottimo luogo di discussione. **Rimani sul tema.** 
+Este grupo é um recurso comunitário compartilhado, um lugar para compartilhar competências, conhecimentos e interesses através de uma conversa contínua. O objetivo do grupo é manter um ambiente amigável, seguro e acolhedor para todos, independentemente do nível de experiência, género, identidade e expressão de género, orientação sexual, deficiência, aparência pessoal, constituição, raça, etnia, idade, religião, nacionalidade ou outra característica semelhante, exceto para indicar um grupo na língua apropriada para aqueles que aderiem ao grupo sem saber falar português.
 
-Avere un ottimo confronto per noi non significa solamente eccellere nella discussione tecnica, ma anche eccellere nel comportamento tra di noi. Per questa ragione ti chiediamo di astenerti dal "giocare" su questioni delicate o che possono offendere, in particolare se sono fuori tema; questo troppo spesso porta a lotte intestine inutili, sentimenti feriti e fiducia danneggiata; peggio, può allontanare completamente le persone dalla comunità.
+### 1- Melhoramento da discussão
+Ajude-nos a tornar este grupo num espaço de discussão de excelência. **Mantenha-se no tema.** 
 
-Le conversazioni che facciamo danno anche il clima che si respira ad ogni nuovo arrivato. Scegli di impegnarti in discussioni che rendano il gruppo uno spazio interessante da frequentare.
+Ter uma discussão de excelência para nós não significa apenas ser excelente na parte técnica, mas também excelência no comportamento entre todos. Por esta razão, pedimos-lhe que se abstenha de "brincar" em questões sensíveis ou ofensivas, particularmente se estiverem fora do assunto; isso muitas vezes leva a lutas internas desnecessárias, sentimentos feridos e confiança danificada; ou pior, pode remover completamente as pessoas da comunidade.
 
-Sii rispettoso degli argomenti e delle persone, anche se non sei d'accordo con qualcosa di ciò che viene detto.
+Todas as conversas que temos influênciam o ambiente do grupo e isso transparece mais claramente para os recém-chegados. Escolha envolver-se em discussões que tornam o grupo um espaço interessante para participar.
 
-### 2- Sii civile e sereno
-In tante discussioni capita di dover esprimere il proprio disaccordo rispetto ad una argomentazione. Non c'è nulla di sbagliato in ciò. Ricordati solo ricorda di criticare le idee, **non le persone**, evitando:
+Seja respeitoso com tópicos e pessoas, mesmo se você não concordar com algo do que está sendo dito.
 
-* Insulti
-* Attacchi Ad Hominem
-* Risposte al tono di un post invece del suo contenuto effettivo
-* Risposte immediate basate sulle emozioni senza riflessione 
-* Comportamenti da Troll
+### 2- Seja civilizado e não se exalte
+Nas discussões é natural por vezes estar em desacordo com um argumento. Não há nada de errado com isso, apenas lembre-se de criticar ideias e **não as pessoas**, evitando:
 
-Se rimani coinvolto tuo malgrado in una polemica, tieni la discussione incentrata sul tema, non sulle persone coinvolte. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.** Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro.
+* Insultos;
+* Ataques Ad Hominem;
+* Respostas ao tom de um post em vez de seu conteúdo real;
+* Respostas imediatas baseadas em emoções sem reflexão;
+* Comportamento de troll.
 
-Ricorda che lo scopo di questo gruppo non è cercare di convincersi reciprocamente, assumi che le controparti abbiano la risorsa tempo limitata e rispetta questo vincolo. 
+Se se vir envolvido numa controvérsia, mantenha a discussão focada no tópico e não nas pessoas envolvidas. Aqui conversamos com todos, **firmes no conteúdo mas educados nas maneiras. Não se insulta, não se ameaça.** Considere que muitas pessoas verão os seus comentários, talvez até o seu próximo empregador.
 
-Supponi sempre che gli individui parlino a titolo personale, e mai per conto delle organizzazioni di cui possono fare parte, a meno che non sia esplicitamente asserito il contrario dalla controparte. Cerca di evitare di cadere in fallacie logiche, ne trovi un elenco qui https://yourlogicalfallacyis.com
+Lembre-se de que o objetivo desse grupo não é tentar convencer os outros, todos temos os nossos recursos e tempo limitados, deve-se respeitar essa condição.
 
-### 3- Scrivi in modo leggibile.
-Tieni conto che sei in un gruppo di centinaia di persone (molte delle quali ricevono notifica di ogni nuovo post): cerca di pubblicare in modo ordinato, compatto e responsabile. **Non intasare il gruppo con messaggi in rapida successione.**
+Sempre assuma que os indivíduos falam em uma capacidade pessoal, e nunca em nome das organizações das quais eles podem fazer parte, a menos que o oposto seja explicitamente declarado pela outra parte. Tente evitar cair em falácias lógicas, encontre uma lista aqui https://yourlogicalfallacyis.com
 
-Può capitare che la discussione degeneri facilmente e si venga subissati di messaggi inviati in rapida successione. In casi come questi perdere il filo del discorso è questione di pochi messaggi: si possono intrecciare dialoghi e discussioni differenti, rendendo illeggibile e di difficile comprensione il flusso del gruppo. Per questo motivo è consigliabile inviare un unico messaggio, anche lungo, e attendere che il destinatario (o i destinatari) risponda prima di inviare un secondo messaggio.
+### 3- Escreva de forma legível
+Tenha em mente que você está num grupo com centenas de pessoas (muitas das quais são notificadas sobre cada post): tente publicar de forma ordenada, compacta e responsável. **Não obstrua o grupo com mensagens em rápida sucessão.**
 
-Assumi sempre che un commento possa rimanere archiviato su sistemi di terze parti. Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
+Pode acontecer que a discussão se degenere facilmente e você fique sobrecarregado com mensagens enviadas em rápida sucessão. Em casos como esses, perder o fio da discussão é uma questão de algumas mensagens: diferentes diálogos e discussões podem ser entrelaçados, tornando o fluxo do grupo ilegível e difícil de entender. Por esse motivo, é aconselhável enviar uma única mensagem, mesmo que longa, e aguardar até que o destinatário (ou destinatários) responda(m) antes de enviar uma segunda mensagem.
 
-### 4- Rispetta la privacy
-Non richiedere agli altri utenti informazioni personali di qualsiasi tipo. Se dopo essere entrati in confidenza volete scambiare questo genere di informazioni fatelo attraverso messaggi personali e non sul gruppo.
+Assuma sempre que o seu comentário pode permanecer armazenado em sistemas de terceiros. Use letras maiúsculas e minúsculas. Usar CAPS LOCK será equivalente a GRITAR!
 
-Se un utente sta utilizzando un alias, un soprannome o uno pseudonimo, rispetta il suo desiderio di anonimato. Anche se si è amici intimi di quella persona è più cortese usare il suo soprannome. Non usare il vero nome di quella persona in questo gruppo senza il suo permesso.
+### 4- Respeite a privacidade
+Não peça aos outros membros informações pessoais de qualquer tipo. Se depois de entrar em mensagem direta, faça-o através de mensagens pessoais (de preferência secretas) e não através do grupo.
 
-### 5- Comportamenti scorretti non ammissibili
+Se um membro estiver a usar um alias, um apelido ou um pseudônimo, respeite o seu desejo de anonimato mesmo se for um amigo próximo dessa pessoa. Não use o nome real dessa pessoa no grupo sem o seu consentimento.
 
-Non è/sono ammessi :
-* messaggi che incitano all'uso della violenza o all'odio razziale, etnico, nazionalistico o religioso. 
-* insulti, molestie o stalking, impersonare persone o esporre le loro informazioni private. 
-* pubblicazione di materiale osceno o sessualmente esplicito.
-* ripetuto andare fuori tema nonostante avvisi in tal senso da parte degli amministratori del gruppo.
-* richieste di denaro ad altri membri del gruppo in alcuna forma sia esso fiat o cryptocurrency, fatte salve campagne di pubblico interesse, autorizzate dai moderatori. (es. Yeastplume funding campaign) 
-* aggiungere bot al gruppo, salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
-* propaganda politica o proselitismo di fedi religiose, o contro le stesse.
-* pubblicità di prodotti o servizi (anche cripto valute).
-* minacce di azioni legali: è una tipica modalità per intimorire gli interlocutori. Se pensi che qualcuno abbia davvero violato la legge, contatta il tuo legale per le verifiche del caso ma non minacciare o notificare nel gruppo riguardo ad azioni legali.
-* messaggi che discutono su come il gruppo è moderato dagli amministratori. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
-* l'impiego di nomi utente:
-  * provocatori, che possono essere percepiti come offensivi o provocatori, divenire oggetto di abuso, risultare sgradevoli nei confronti degli altri utenti. 
-  * promozionali, che riproducono o reclamizzano un'impresa, un marchio o un prodotto commerciale. 
-  * diffamatori o abusivi, usati come un mezzo per attaccare altri utenti o anche solo sottolineare il disaccordo con loro.
-  * che generano confusione con quelli di altri utenti specie se molto noti, o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti.
+### 5- Comportamento incorreto
+Não é permitido:
+* Mensagens que incitam o uso de violência ou ódio racial, étnico, nacionalista ou religioso;
+* insultos, assédio ou perseguição, personificando pessoas ou expondo suas informações pessoais;
+* Publicação de material obsceno ou sexualmente explícito;
+* repetir saidas de tópico apesar dos avisos para o efeito dos administradores do grupo;
+* pedidos de dinheiro de outros membros do grupo, sob qualquer forma, seja fiat ou criptomoedas, sem prejuízo de campanhas de interesse público, autorizadas pelos moderadores. (por exemplo, campanha de financiamento do Yeastplume);
+* adicionar bots ao grupo, a menos que os administradores possam considerá-los necessários (a seu critério);
+* propaganda política ou proselitismo de fé religiosa, ou contra eles.
+* publicidade de produtos ou serviços (incluindo criptomoedas);
+* ameaças de ação legal: é uma maneira típica de intimidar as partes interessadas. Se você acha que alguém realmente violou a lei, entre em contato com seu advogado para verificações de caso, mas não ameace ou notifique o grupo sobre ações legais;
+* Mensagens que discutem como o grupo é moderado pelos administradores. Se você tiver problemas com as opções de moderação, entre em contato diretamente com um dos moderadores para explicar seu ponto de vista;
+* o uso de nomes de usuários:
+  * provocadores, que podem ser vistos como ofensivos ou provocativos, tornam-se objeto de abuso, desagradáveis ​​para outros usuários;
+  * promocionais, que reproduzem ou anunciam um negócio, uma marca ou um produto comercial;
+  * difamatório ou abusivo, usado como meio de atacar outros usuários ou até mesmo enfatizar discordância com eles;
+  * Que geram confusão com os de outros usuários, especialmente se eles são muito bem conhecidos, ou que de alguma forma podem dar a impressão de uma função oficial dentro da comunidade de usuários.
 
-## PROVVEDIMENTI IN CASO DI COMPORTAMENTI SCORRETTI:
-Gli amministratori hanno un ruolo; sono i facilitatori di questa comunità. Ma anche tu lo sei. 
-Quando vedi un comportamento scorretto, non rispondere. Rispondere incoraggia il cattivo comportamento, consuma la tua energia e spreca il tempo di tutti. Basta segnalarlo agli amministratori. 
+## MEDIDAS EM CASO DE COMPORTAMENTO INCORRETO:
+Administradores têm um papel, eles são os facilitadores dessa comunidade, Mas você também é.
+Quando detetar algum indicio de má conduta, não responda. A resposta encoraja o mau comportamento, consome sua energia e desperdiça o tempo de todos. Apenas informe isso aos administradores.
 
-In caso di comportamenti scorretti, gli amministratori del gruppo cancelleranno il/i post in questione e chiederanno, tramite commento pubblico e/o messaggio privato, di evitare di reiterare il comportamento.
+Em caso de comportamento incorreto, os administradores do grupo apagarão o(s) post(s) em questão e advertirão, por meio de comentário público e/ou mensagem privada, para evitar a repetição do comportamento.
 
-In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione, il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
+No caso de violações **graves** ou **à segunda repetição** da violação, as mensagens ofensivas serão canceladas e o autor suspenso por um dia.
 
 **'Three strikes and you're out'**
 
-Alla terza violazione delle policy della lista, gli amministratori del gruppo banneranno definitivamente il responsabile delle violazioni.
+À terceira violação das políticas da lista, os administradores do grupo irão banir definitivamente a pessoa responsável pelas mesmas.
 
-Gli amministratori sono tenuti ad uno standard più elevato rispetto agli altri membri della comunità. Se un amministratore crea una situazione inappropriata, deve aspettarsi una tolleranza minore rispetto agli altri.
+Os administradores têm a responsabilidade de manter um padrão de comportamente mais elevado do que outros membros da comunidade. Se um administrador cria uma situação inadequada, este deve esperar menos tolerância do que outros.
 
-### Gestione dei nomi utente inappropriati
+### Gestão de nomes de usuários inapropriados
+Se um nome de usuário parecer inadequado, entre em contato com um administrador do grupo explicando as suas razões, identificando o caso em específico.
 
-Se un nome utente ti pare essere inappropriato, contatta un amministratore del gruppo spiegando la tua motivazione riguardante il caso specifico.
+Se o caso for considerado válido pelo administrador, este enviará uma solicitação de mudança ao usuário com o nome problemático, solicitando a alteração, suspendendo sua possibilidade de postagem do membro com esse nome no grupo.
+O usuário terá que alterar o nome no prazo máximo de 1 dia, após o qual o usuário será definitivamente removido do grupo (e não banido, de modo a poder regressar novamente com um nome que esteja de acordo com esta política.
 
-Qualora la segnalazione venga ritenuta congruente con le limitazioni ai nomi utente previste da questa policy del gruppo, l' amministratore provvederà ad inviare una richiesta di cambiamento all'utente con il nickname problematico, richiedendo la modifica, sospendendo nel frattempo la sua possibilità di postare nel gruppo.
-L'utente dovrà provvedere entro 1 giorno a modificare il nickname, passato il quale l'utente verrà definitivamente rimosso dal gruppo, al quale potrà riaccedere con un nickname in linea con questa policy.
-
-### Responsabilità
-Gli amministratori del gruppo non visualizzano l'anteprima di nuovi post; non si assumono alcuna responsabilità per i contenuti pubblicati dalla community. Sono volontari che moderano il gruppo su base best effort e non danno alcun garanzia legale riguardo  un livello di servizio, soprattutto riguardo alla rimozione di materiale non conforme.
+### Responsabilidade
+Os Administradores de grupos não veem a pré-visualização de novas postagens. Estes não aceitam responsabilidade pelo conteúdo publicado pela comunidade. São voluntários que moderam o grupo com base no melhor esforço e não dão qualquer garantia legal em relação ao nível de serviço, especialmente em relação à remoção de conteúdo em não conformidade.
